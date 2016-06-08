@@ -23,7 +23,7 @@ class UsersController < ApplicationController
   end
 
   def signout
-    binding.pry
+
   end
 
   private
