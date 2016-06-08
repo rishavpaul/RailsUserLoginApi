@@ -1,28 +1,21 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Important Code Snippets
 
-Things you may want to cover:
+* Models
+  https://github.com/rishavpaul/user_management/blob/master/app/models/user.rb
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+* Services
+  https://github.com/rishavpaul/user_management/tree/master/app/services/user
+  
+* Controllers
+  https://github.com/rishavpaul/user_management/blob/master/app/controllers/users_controller.rb
+  
+* Util Class
+  https://github.com/rishavpaul/user_management/blob/master/lib/common_helper.rb
+  
+* Test Cases (Pending)
+  https://github.com/rishavpaul/user_management/blob/master/spec/controllers/users_controller_spec.rb
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
